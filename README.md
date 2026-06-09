@@ -26,6 +26,7 @@
 - OpenWeather API Key ([Get Free Key](https://openweathermap.org/api))
 - Groq API Key ([Get Free Key](https://console.groq.com))
 - Go to the settings and make the theme 'light'.
+
 **Tech Stack**
 
 Frontend: Streamlit
