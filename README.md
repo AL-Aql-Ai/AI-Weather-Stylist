@@ -26,7 +26,8 @@
 - OpenWeather API Key ([Get Free Key](https://openweathermap.org/api))
 - Groq API Key ([Get Free Key](https://console.groq.com))
 
-Tech Stack
+**Tech Stack**
+
 Frontend: Streamlit
 
 AI/ML: Groq API (Llama 3.1 8B)
