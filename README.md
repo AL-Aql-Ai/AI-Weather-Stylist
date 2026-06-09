@@ -26,6 +26,15 @@
 - OpenWeather API Key ([Get Free Key](https://openweathermap.org/api))
 - Groq API Key ([Get Free Key](https://console.groq.com))
 
+Tech Stack
+Frontend: Streamlit
+
+AI/ML: Groq API (Llama 3.1 8B)
+
+Weather: OpenWeatherMap API
+
+Styling: Custom CSS
+
 ### Installation
 
 ```bash
@@ -39,11 +48,3 @@ pip install -r requirements.txt
 # Run app
 streamlit run app.py
 
-Tech Stack
-Frontend: Streamlit
-
-AI/ML: Groq API (Llama 3.1 8B)
-
-Weather: OpenWeatherMap API
-
-Styling: Custom CSS
